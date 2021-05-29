@@ -1,0 +1,9 @@
+Nome tabella: User
+
+Colonne:
+
+Nome 
+Cognome
+Età
+Email
+Sesso
